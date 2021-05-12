@@ -1,0 +1,39 @@
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\netcoreapp3.1\Coffee Shop Registration.exe
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\netcoreapp3.1\Coffee Shop Registration.deps.json
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\netcoreapp3.1\Coffee Shop Registration.runtimeconfig.json
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\netcoreapp3.1\Coffee Shop Registration.runtimeconfig.dev.json
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\netcoreapp3.1\Coffee Shop Registration.dll
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\netcoreapp3.1\Coffee Shop Registration.pdb
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\netcoreapp3.1\Coffee Shop Registration.Views.dll
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\netcoreapp3.1\Coffee Shop Registration.Views.pdb
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.csprojAssemblyReference.cache
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.AssemblyInfoInputs.cache
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.AssemblyInfo.cs
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.csproj.CoreCompileInputs.cache
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.RazorAssemblyInfo.cache
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.RazorAssemblyInfo.cs
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\staticwebassets\Coffee Shop Registration.StaticWebAssets.Manifest.cache
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\staticwebassets\Coffee Shop Registration.StaticWebAssets.xml
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\scopedcss\bundle\Coffee Shop Registration.styles.css
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.TagHelpers.input.cache
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.TagHelpers.output.cache
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.RazorCoreGenerate.cache
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registration.cshtml.g.cs
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.RazorTargetAssemblyInfo.cache
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.RazorTargetAssemblyInfo.cs
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.Views.pdb
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.dll
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.pdb
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.genruntimeconfig.cache
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Coffee Shop Registration.csproj.CopyComplete
+C:\Users\spcav\source\repos\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
